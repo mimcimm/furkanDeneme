@@ -6,5 +6,6 @@ int main(int argc, char *argv[])
 //Furkan
     //Test2
     qDebug()<< "code test";
+    qDebug()<< "code test2";
     return a.exec();
 }
